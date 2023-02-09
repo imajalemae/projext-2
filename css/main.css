@@ -3,6 +3,13 @@ body  {font-family: 'Raleway', sans-serif;}
 h1,
 h2,
 h3,
-h4 {font-family: 'Sofia Sans Extra Condensed', sans-serif;}
-p   {color:blueviolet}
-p   {font-size: 20px;}
+h4 {font-family: 'Sofia Sans Extra Condensed', sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+    text-transform: uppercase;
+    text-shadow: 1px 1px 2px pink;}
+p   {color:blueviolet;
+    font-style: italic;
+    font-weight: 200;}
+:any-link {color: palevioletred;}
+li  {color: rgb(92, 3, 92);}
